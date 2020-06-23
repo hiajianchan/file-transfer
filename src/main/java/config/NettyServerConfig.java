@@ -18,6 +18,6 @@ public class NettyServerConfig {
 
     public static String passwd = "fireinthehole";
 
-//    public final static String LOCAL_IP = "39.96.183.210";
+//    public final static String LOCAL_IP = "公网IP";
     public static String LOCAL_IP = "127.0.0.1";
 }
